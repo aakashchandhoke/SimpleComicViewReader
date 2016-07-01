@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\iAugmentor\Downloads\SimpleComicBookViewer1\app\src\main\assets"><file name="Burroughs_Bulletin_021.CBZ" path="C:\Users\iAugmentor\Downloads\SimpleComicBookViewer1\app\src\main\assets\Burroughs_Bulletin_021.CBZ"/></source><source path="C:\Users\iAugmentor\Downloads\SimpleComicBookViewer1\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\iAugmentor\Downloads\SimpleComicBookViewer1\app\src\debug\assets"/></dataSet></merger>
